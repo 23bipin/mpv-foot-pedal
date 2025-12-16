@@ -1,0 +1,2 @@
+SUBSYSTEM=="input", ATTRS{idVendor}=="xxxx", ATTRS{idProduct}=="xxx", MODE="0660", GROUP="pedal"
+
